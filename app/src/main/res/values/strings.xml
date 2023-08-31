@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">eLife</string>
+    <string name="signup" />
+    <string name="loginhere" />
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Passwoed</string>
+    <string name="register">Register\n</string>
+    <string name="click_to_login">Click to login</string>
+    <string name="click_to_register">Click To Register</string>
+    <string name="logout">Logout</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:bottom="8dp"
+    android:left="-3dp"
+    android:right="-3dp"
+    android:top="-3dp">
+    <shape android:shape="rectangle">
+        <solid android:color="@android:color/transparent" />
+        <stroke
+            android:width="1dp"
+            android:color="#000000" /> <!-- 這裡設置底線的顏色和寬度 -->
+    </shape>
+</item>
+<item
+android:bottom="16dp"
+    android:left="-3dp"
+    android:right="-3dp"
+    android:top="-3dp">
+<shape android:shape="rectangle">
+<solid android:color="@android:color/transparent" />
+<stroke
+    android:width="1dp"
+    android:color="#000000" /> <!-- 這裡設置底線的顏色和寬度 -->
+</shape>
+    </item>
+    <!-- 可以添加更多的 item 來添加更多的底線 -->
+    </layer-list>
